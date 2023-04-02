@@ -10,8 +10,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - ### [YouTube: How To Install Azure Virtual Machine](https://youtu.be/Lzhm4nWPv9w)
 - ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/3X6N6Irhiiw)
-- ### [YouTube: Post osTicket Installation]
-- ### [YouTube: Tickets and Tickets Lifecycle]
+
 
 <h2>Environments and Technologies Used</h2>
 
