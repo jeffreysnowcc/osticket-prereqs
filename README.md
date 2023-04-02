@@ -8,7 +8,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/Lzhm4nWPv9w)(https://youtu.be/3X6N6Irhiiw)
+- ### [YouTube: How To Install Azure Virtual Machine](https://youtu.be/Lzhm4nWPv9w)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/3X6N6Irhiiw)
 
 <h2>Environments and Technologies Used</h2>
 
