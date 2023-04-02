@@ -10,6 +10,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - ### [YouTube: How To Install Azure Virtual Machine](https://youtu.be/Lzhm4nWPv9w)
 - ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/3X6N6Irhiiw)
+- ### [YouTube: Post osTicket Installation]
+- ### [YouTube: Tickets and Tickets Lifecycle]
 
 <h2>Environments and Technologies Used</h2>
 
@@ -35,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/CXYjNsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configuring IIS with CGI to allow as a web server your computer to serve up websites.
 </p>
 <br />
 
@@ -43,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/FNTrn2r.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using MySQL server to access and installing it's database to your computer so osTicket would have a place to store it's data.
 </p>
 <br />
 
@@ -51,14 +53,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/PCugi55.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Access osTicket broswer and going through the setup process to install osTicket
 </p>
 <br />
  <p>
 <img src="https://i.imgur.com/xGK6tfd.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed osTicket and go through the log on screen to create tickets
 </p>
 <br />                                                                                                
                                                                                                  
